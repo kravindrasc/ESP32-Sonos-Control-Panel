@@ -1,0 +1,17 @@
+#pragma once
+// ─────────────────────────────────────────────────────────────────────────────
+// user_config.h  —  copy this file to user_config.h and fill in your values.
+// user_config.h is gitignored and will never be committed.
+// ─────────────────────────────────────────────────────────────────────────────
+
+// WiFi credentials
+#define USER_WIFI_SSID      "YourNetworkName"
+#define USER_WIFI_PASSWORD  "YourPassword"
+
+// IP address of the machine running the bridge server, and the port it listens on.
+// Format must be a full URL with no trailing slash: "http://x.x.x.x:3000"
+#define USER_BRIDGE_BASE    "http://192.168.1.xxx:3000"
+
+// Name of your primary Sonos room — must match exactly what appears in the Sonos app.
+// This is the room whose Now Playing state is shown on the main screen.
+#define USER_DEFAULT_ROOM   "Living Room"

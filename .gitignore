@@ -1,0 +1,18 @@
+# User credentials — never commit these
+firmware/include/user_config.h
+bridge/.env
+
+# node-sonos-http-api is cloned separately (see README)
+node-sonos-http-api/
+
+# Bridge runtime
+bridge/node_modules/
+bridge/art-cache/
+bridge/logs/
+
+# PlatformIO build artifacts
+firmware/.pio/
+firmware/.vscode/
+
+# macOS
+.DS_Store
