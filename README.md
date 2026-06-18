@@ -249,3 +249,9 @@ The bridge caches art in `bridge/art-cache/`. If thumbnails look stale, delete t
 ## License
 
 MIT
+
+---
+
+## Disclaimer
+
+This project is not affiliated with, endorsed by, or sponsored by Sonos, Inc. Sonos is a registered trademark of Sonos, Inc. This is an independent open-source project that communicates with Sonos devices on a local network.
