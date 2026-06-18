@@ -2,7 +2,8 @@
 
 A desktop Sonos controller in a 3D-printed picture-frame enclosure, built around a 3.5" ESP32 display board. Browse album art, control playback, manage room groups, and adjust per-room volume — powered by a single USB-C cable.
 
-![ESP32 Sonos Control Panel sitting on a desk, showing album art for "alousy, jealous" by Olivia Rodrigo](docs/device.jpg)
+<img width="3843" height="2874" alt="ESP32 display" src="https://github.com/user-attachments/assets/895b4b82-e93e-4348-9414-f989306ef06d" />
+
 
 ## Features
 
